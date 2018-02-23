@@ -85,4 +85,4 @@ http://blog.csdn.net/co_zy/article/details/73922213
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#wordcloud   
 这里找到，只要找到报错里的文件下载下来安装上去就没问题了。   
 
-其他的就不写啦，都在代码里，有详细的注释。   
+其他的就不写啦，完成代码都在lagou这个文件的lagou.py里，有详细的注释。注意代码里用的数据库连接都是本地连接，图片保存路径也是本地的，需自行修改创建。      
